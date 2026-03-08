@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print("Hello Dart");
+  print("Hello flutter");
   int? id;
   String? name;
   double score;
